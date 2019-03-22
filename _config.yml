@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
+name: Diary
 email: bennyRick80@gmail.com
 author: Benny Rick
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+url: 
+resume_site: 
 github: https://github.com/bennyrick80/
 baseurl:
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+description: Actually, It's my fault!
+meta_description: I'm sorry.
 motto: It's our wits that make us men.
-banner: 베너는 뭐가 나을까.
+banner: Wellcome
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
