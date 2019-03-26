@@ -10,8 +10,8 @@ description: Actually, It's my fault!
 meta_description: I'm sorry.
 motto: It's our wits that make us men.
 banner: Wellcome
-disqus_url:https://disqus.com/by/bennyrick/
-disqus_id:Benny Rick
+disqus_url:
+disqus_id:Benny
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
