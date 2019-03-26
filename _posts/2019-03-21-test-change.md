@@ -1,23 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-03-21 13:09:30 +0900
-categories: jekyll
-tag: server
+title:  "리액트의 장 단점"
+date:   2019-03-26 10:09:30 +0900
+categories: study
+tag: react.js
 ---
 
 * content
 {:toc}
 
 
-First POST build by Jekyll.
+	//todo
+    block code
 
 
-바낌				{#zhugeliang}
 ------------------------
 
-change
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
